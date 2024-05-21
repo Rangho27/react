@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lowther Castle</title>
+</head>
+<body>
+    <h1>Lowther Castle</h1>
+    <p>Lowther Castle, located in Penrith, Cumbria, is a stunning example of Gothic Revival architecture. The castle was completed in 1812 by architect Robert Smirke for William Lowther, 1st Earl of Lonsdale. It has a dramatic history of grandeur, decline, and recent revitalization.</p>
+    
+    <h2>History</h2>
+    <p>The Lowther family has been influential in British history, with their lineage dating back to the 12th century. The castle was abandoned in 1936, occupied by the army during World War II, and partially demolished in 1957. In recent years, the castle has been opened to the public and partially restored, attracting many visitors.</p>
+
+    <h2>Gardens</h2>
+    <p>The castle gardens are an impressive blend of historical and modern designs. Notable features include:</p>
+    <ul>
+        <li><strong>Rock Garden</strong>: Winding paths and flower beds surrounding a central pond.</li>
+        <li><strong>Formal Parterre</strong>: Yew hedges and perennial plants arranged in tapestry designs.</li>
+        <li><strong>Escarpment Walk</strong>: A trail with stunning views across the Lowther Valley.</li>
+    </ul>
+    
+    <h2>Visitor Information</h2>
+    <p>Lowther Castle is a popular tourist attraction with various amenities, including a café, shop, and adventure playground for children. The castle and gardens are open daily, with different timings for summer and winter seasons.</p>
+    
+    <h2>Photos</h2>
+    <img src="https://github.com/Rangho27/react/assets/161280847/241a6729-4e61-440c-af3e-3b939005898e" alt="Lowther Castle">
+    
+    <h2>References</h2>
+    <ul>
+        <li><a href="https://www.lowthercastle.org">Lowther Castle Official Website</a></li>
+        <li><a href="https://www.historichouses.org/house/lowther-castle.html">Historic Houses - Lowther Castle</a></li>
+        <li><a href="https://www.britainexpress.com/counties/cumbria/houses/lowther-castle.htm">Britain Express - Lowther Castle</a></li>
+    </ul>
+</body>
+</html>
